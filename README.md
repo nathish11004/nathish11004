@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @nathish11004
+- 👀 I’m interested in embedded system
+- 🌱 I’m currently learning B.E Electrical and Electronics Engineering
