@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @nathish11004
-- 👀 I’m interested in embedded system
 - 🌱 I’m currently learning B.E Electrical and Electronics Engineering
 - Hello, I'm Nathish K, a pre-final-year student of B.E. in Electrical and Electronics Engineering with a CGPA of 7.81/10.
 - I'm proficient in programming languages C++, Python, and Java, and I have practical experience in Arduino, TinkerCAD, and SCADA systems.
